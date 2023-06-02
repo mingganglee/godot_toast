@@ -1,6 +1,7 @@
 # Godot Toast
 
-**Godot 4.0**
+- **[Godot 4.0 Toast](https://github.com/mingganglee/godot_toast/tree/main)**
+- **[Godot 3.x Toast](https://github.com/mingganglee/godot_toast/tree/3.x)**
 
 ## How to use
 
